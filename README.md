@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Katja13k
 - 👀 I’m interested in getting new experience in HTML5 CSS3 and JavaScript
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java programming
 - 💞️ I’m looking to collaborate on project and get some experience 
 - 📫 You can contact me by email katarina.laki282@gmail.com
 
